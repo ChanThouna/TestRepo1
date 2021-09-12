@@ -9,8 +9,8 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-public class GetAPITest {
-    final Logger LOGGER = LogManager.getLogger(GetAPITest.class.getSimpleName());
+public class ReqresGetAPITest {
+    final Logger LOGGER = LogManager.getLogger(ReqresGetAPITest.class.getSimpleName());
 
     @Before
     public void beforeMethod() {
