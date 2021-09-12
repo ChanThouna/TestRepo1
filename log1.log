@@ -1,0 +1,6 @@
+[PostAPITest]INFO: <------------- Start --------------->
+[PostAPITest]INFO:Response Body :{
+    "id": "981",
+    "createdAt": "2021-09-12T14:49:52.404Z"
+}
+[PostAPITest]INFO: <------------- End --------------->
