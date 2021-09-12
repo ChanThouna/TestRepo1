@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54aa9d47-c3de-4d6a-8a7e-b134d8a1320d" name="Default" comment="" />
+    <list default="true" id="54aa9d47-c3de-4d6a-8a7e-b134d8a1320d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/PostAPITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PostAPITest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +30,8 @@
       <file leaf-file-name="PostAPITest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/PostAPITest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="225">
+              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -168,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in rest_assured_phase3 (1)">
+  <component name="RunManager" selected="JUnit.PostAPITest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -307,9 +309,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PostAPITest" />
         <item itemvalue="JUnit.All in rest_assured_phase3 (1)" />
         <item itemvalue="JUnit.All in rest_assured_phase3" />
-        <item itemvalue="JUnit.PostAPITest" />
         <item itemvalue="JUnit.GetAPITest" />
         <item itemvalue="JUnit.GetAPITest.getAPITest" />
       </list>
@@ -581,8 +583,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PostAPITest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        <state relative-caret-position="225">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

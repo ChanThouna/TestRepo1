@@ -13,7 +13,7 @@ public class PostAPITest {
     final Logger LOGGER = LogManager.getLogger(PostAPITest.class.getSimpleName());
 
     @Before
-    public void beforeMethod() {
+    public void postAPITest() {
 
         LOGGER.debug("Inside the beforeMethod()");
 
